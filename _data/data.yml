@@ -63,19 +63,15 @@ education:
       university: University of South Carolina
       time: 2013 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        magna cum laude
 
           - Bullet point
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Campground Manager / Travel
+      time: June 2019 - September 2019
+      company: American Land & Leisure
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -87,12 +83,15 @@ experiences:
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point
+          - Maintained a campground in the Cascade Mountains of Northern California.
+          - Responsible for fee collection and weekly financial reporting.
+          - Created a friendly and welcoming environment for guests while proactively tending to customer
+          needs.
+          - Intermittent traveling of the U.S to explore my own creative and professional interests.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Customer Success Manager
+      time: November 2017 - May 2019
+      company: Cognito Forms, Columbia SC
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -100,12 +99,20 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Mastered product offering to become a reliable source of knowledge for worldwide customer
+          base.
+          - Face and voice of Customer Success Team, responsible for efficient customer on-boarding,
+          customer maintenance and communication between Customer Success Team and Product
+          Development.
+          - Researched, developed, and implemented a knowledge base system for Customer Success Team
+          to easily and efficiently access relevant information for customer inquiries.
+          - Crafted relationships with individual customers to establish a strong foundation of product
+          advocates.
+          - Responsible for creating and implementing a training program for new team members.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Office Manager
+      time: February 2017 - November 2017
+      company: VC3, Columbia SC
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -113,8 +120,12 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Prioritized and managed daily operations of a 100+ employee office, as well as two regional
+          offices and remote employees.
+          - Assisted finance team with Accounts Payable, Accounts Receivable and month end reporting
+          processes.
+          - Partnered with Project Managers to coordinate technician scheduling, communicate product inventory, and
+          manage customer data.
 
 projects:
     title: Projects
