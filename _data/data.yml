@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -73,15 +73,14 @@ experiences:
       time: June 2019 - September 2019
       company: American Land & Leisure
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        I had an opportunity to embark upon an extended leave of travel, which I
+        decided to embrace (as I hope most of us would!). This opportunity allowed
+        me to explore what makes me, well.. me, and has led me down new paths
+        that I never knew existed for myself. Spending a summer secluded in the
+        Cascades of Northern California gave me time to think, reflect, and also
+        connect with many amazing people. I hope this time is viewed as an asset,
+        as I feel I am now a more effective, aware, and reenergized person who is
+        ready and able to contribute and learn in any new endeavor.
 
           - Maintained a campground in the Cascade Mountains of Northern California.
           - Responsible for fee collection and weekly financial reporting.
@@ -93,11 +92,16 @@ experiences:
       time: November 2017 - May 2019
       company: Cognito Forms, Columbia SC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        This role helped me to fine tune my customer service, communication,
+        and creative problem-solving skills in order to construct the most
+        welcoming, friendly and helpful atmosphere possible. As one of two members
+        of our Customer Success Team, I learned to effectively serve hundreds of
+        customers daily. Continually educating myself on our customer's needs allowed
+        me to provide above and beyond service for each and every customer. 
+        Beyond serving our customers, I took on the role of administrator for our 
+        Customer Success Team, thinking strategically to create new ways of working
+        and communicating in order to continually evolve our Customer Service techniques
+        to meet our growing customer base.
 
           - Mastered product offering to become a reliable source of knowledge for worldwide customer
           base.
@@ -114,11 +118,13 @@ experiences:
       time: February 2017 - November 2017
       company: VC3, Columbia SC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Managing the day to day operations of a growing IT management company 
+        allowed me to develop strong time management and priortization skills.
+        This role required me to dip my toes into all aspects of company operations,
+        including finance, project management, event coordination and customer service.
+        This equipped me with a broad set of skills as I am familiar and comfortable
+        with everything from financial reporting and data entry to ordering supplies and
+        making travel arrangements for employees.
 
           - Prioritized and managed daily operations of a 100+ employee office, as well as two regional
           offices and remote employees.
@@ -126,34 +132,6 @@ experiences:
           processes.
           - Partnered with Project Managers to coordinate technician scheduling, communicate product inventory, and
           manage customer data.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     title: Skills &amp; Proficiency
